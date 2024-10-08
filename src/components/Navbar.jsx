@@ -7,11 +7,10 @@ const Navbar = () => {
       <nav>
         <div className="bg-dark text-secondary px-4 py-1 text-center">
           <div className="py-3">
-            <h1 className="display-5 fw-bold text-white">VogueVista</h1>
+            <h1 className="display-5 fw-bold text-white">instyle.com</h1>
             <div className="col-lg-6 mx-auto">
               <p className="fs-5 mb-4">
-                Make bold statements and embrace modern classics with our
-                distinctive pieces.
+                Elegance personified: wear class with confidence
               </p>
               <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
                 <Link to="/">
